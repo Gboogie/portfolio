@@ -1,3 +1,40 @@
-.background {
-  background-image: url('https://images.unsplash.com/photo-1453847668862-487637052f8a?ixlib=rb-0.3.5&q=80&fm=jpg');
+.main-text{
+  font-family: 'Orbitron', sans-serif;
+  text-align: center;
+
+}
+.contact-text{
+  font-family: 'Orbitron', sans-serif;
+  text-align: center;
+}
+
+#main_picture{
+  border-radius: 150%;
+  display: block;
+    margin: auto;
+    max-width: 20em;
+    max-height: 250px;
+}
+
+
+.icon-container{
+  text-align: center;
+}
+.icon {
+  font-size: 3rem;
+}
+
+.section-headers{
+  font-family: 'Orbitron', sans-serif;
+  text-align: center;
+}
+
+
+.social-media{
+  display: flex;
+  list-style: none;
+   margin: 0 2px;
+   padding: 0;
+   display: flex;
+   justify-content: space-around;
 }
